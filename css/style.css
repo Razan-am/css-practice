@@ -290,7 +290,7 @@ h2 span{
     width: 350px;
 }
 #theme .hover h6{
-    font-size: 20px;
+    font-size: 25px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: black;
     text-align: center;
@@ -304,5 +304,33 @@ h2 span{
     text-align: center;
     opacity: .8;
     font-weight: bolder;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
+}
+
+#theme section:nth-child(5) p:nth-child(3){
+    font-size: 20px;
+
+}
+#theme section:nth-child(5) p:nth-child(4){
+    font-size: 20px;
+
+}
+section article:nth-child(4) button{
+    margin-top: 1000px;
+    margin-left: 463px;
+    width: 350px;
+    height: 70px;
+    background-color: #38c79e;
+    border: none;
+    font-size: 22px;
+    color: ivory;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+section article:nth-child(4) img{
+    width: 69px;
+    height: 70px;
+    right: 42px;
+    top: 27px;
+    position: relative;
 }
